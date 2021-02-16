@@ -1,0 +1,13 @@
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\bin\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.exe
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\bin\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.deps.json
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\bin\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.runtimeconfig.json
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\bin\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.runtimeconfig.dev.json
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\bin\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.dll
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\bin\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.pdb
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.csprojAssemblyReference.cache
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.AssemblyInfoInputs.cache
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.AssemblyInfo.cs
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.csproj.CoreCompileInputs.cache
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.dll
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.pdb
+C:\Users\river\source\repos\sprint-2-test-first-berivera1\sprint-2-test-first-berivera1\obj\Debug\netcoreapp3.1\sprint-2-test-first-berivera1.genruntimeconfig.cache
